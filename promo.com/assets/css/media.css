@@ -36,6 +36,9 @@
     .header-number{
         color: #2b2b2b;
     }
+    .menu__btn {
+        display: block;
+    }
     .container__footer{
         display: none;
     }
